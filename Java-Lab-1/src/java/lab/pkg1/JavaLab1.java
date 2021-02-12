@@ -21,5 +21,5 @@ public class JavaLab1 {
                 System.out.println(num);
            }
     
-      
+    }
     }
